@@ -21,9 +21,8 @@ This software plays Ludwig output files in 3D. It can play particles and order p
 
 **HOW TO USE IT**
 
-Open src/main/java (it's on your left under the project name).
-Open main package (it is under src/main/java as a box in brown divided in 4 parts). 
-Open main.java.
-
-Inside "public static void main(String[] args) {" edit the firsts lines until "//########### DON'T MODIFY AFTER THIS LINE #########################"
-Run 
+1) Open src/main/java (it's on your left under the project name).
+2) Open main package (it is under src/main/java as a box in brown divided in 4 parts). 
+3) Open main.java.
+4) Inside "public static void main(String[] args) {" edit the firsts lines until "//########### DON'T MODIFY AFTER THIS LINE #########################"
+5) Run 
